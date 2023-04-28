@@ -1,16 +1,44 @@
-# dio-js-developer-pokedex
-Projeto didático de construção de uma Pokedex com Javascript
 
-## Leiaute
-![image](https://user-images.githubusercontent.com/2284408/197915630-d514391b-3b48-47ee-a52b-b10f9b0dc7df.png)
+# Desafio DIO POKE API em HTML JAVASCRIPT
 
-https://dribbble.com/shots/6540871-Pokedex-App
+Desafio DIO POKE API em HTML JAVASCRIPT, feito para a formação Java Script do Curso da DIO.
 
-## PokeAPI
-https://pokeapi.co/
 
-Caso você queira aprender a fazer um projeto semelhante, [cadastre-se na DIO, clique aqui](https://dio.me/sign-up?ref=WH4RVZFWTA).
+## Rodando localmente
 
-[![Linkedin](https://img.shields.io/badge/Made%20by-Tarcnux-deepskyblue)](https://www.linkedin.com/in/tarcnux)
+Clone o projeto
 
-[![Twitter](https://img.shields.io/twitter/follow/tarcnux?style=social)](https://www.twitter.com/tarcnux)
+```bash
+  git clone https://link-para-o-projeto
+```
+
+Entre no diretório do projeto
+
+```bash
+  cd my-project
+```
+
+Instale as dependências
+
+```bash
+  npm install
+```
+
+Inicie o servidor
+
+```bash
+  npm run start
+```
+
+
+## Stack utilizada
+
+**Front-end:** React, Redux, TailwindCSS, Next JS.
+
+**Back-end:** Node, Express
+
+
+## Autores
+
+- [@allanseleguim](https://www.github.com/allanseleguim)
+
